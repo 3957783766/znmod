@@ -1,0 +1,9 @@
+{
+  "name": "hanhua-resource-pack-center",
+  "version": "1.0.0",
+  "description": "汉化资源包下载中心",
+  "scripts": {
+    "build": "node generate-list.js"
+  },
+  "private": true
+}
